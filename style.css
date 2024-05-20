@@ -1,0 +1,87 @@
+.header{
+    width: 100%;
+    height: 10vh;
+    background-color: rgb(173, 117, 224);
+    display: flex;
+    justify-content: space-between;
+}
+.lis{
+    list-style-type: none;
+}
+li{
+    display: flex;
+    display: inline;
+}
+.navbar{
+    display: flex;
+}
+h3{
+    max-width: 20vw;
+    height: 20vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.button{
+    text-align: center;
+    align-self: center;
+}
+.domes{
+    position: relative;
+    margin-left: 50px;
+}
+.Shape{
+    position: relative;
+    display: flex;
+    justify-content: end;
+}
+.pink{
+    width: 40vw;
+    height:30vh;
+    background-color: rgb(195, 195, 195);
+    display: flex;
+}
+.blue{
+    width: 100px;
+    height: 100px;
+    background-color:rgb(173, 117, 224);;
+    position: relative;
+    bottom: 50px;
+    right: 20px;
+
+}
+.black{
+    position: relative;
+    width: 200px;
+    height: 180px;
+    background-color: black;
+    position: relative;
+    top: 150px;
+    left: 80px;
+}
+.bluee{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(173, 117, 224);;
+    position: relative;
+    top: 210px;
+    right: 180px;
+}
+.ri-do{
+    display:block;
+}
+footer{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 10vh;
+    background-color: rgb(173, 117, 224);
+}
+.dome{
+    display: block;
+}
+.dome-le{
+    display: block;
+    justify-content: flex-start;
+    margin-left: 650px;
+}
